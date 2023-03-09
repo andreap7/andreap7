@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreap7
+- 👋 Hi, my name is Andrea
 - 👩🏻‍💻 I’m currently learning Flutter and Swift
 - 🦄 I’m looking to collaborate on open source projects 
 - ✨ Fun fact: I dabble in web and mobile design
