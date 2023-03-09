@@ -14,7 +14,7 @@
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/andreap7/), or contact me andreapazin@outlook.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/andreap7/), or contact me [andreap7.dev@gmail.com](mailto:andreap7.dev@gmail.com)
 
 
 <!---
