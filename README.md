@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Andrea
 - 👩🏻‍💻 I’m currently learning Flutter and Swift
 - 🦄 I’m looking to collaborate on open source projects 
-- ✨ Fun fact: I dabble in web and mobile design
+- ✨ Fun fact: I dabble in UX/UI design
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
